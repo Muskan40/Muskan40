@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🚀 I'm a third year undergrad in Information Technology(Galgotias College Of Engineering And Technology)
+- 🚀 I'm a third year undergrad in Electronics And Communication Engineering(Galgotias College Of Engineering And Technology)
 - 📫 I'm *C++ Programmer*
 - 🌱 I’m currently learning *Data Structures and Algorithms.*
 - 📫 How to reach me *muskan002gupta@gmail.com*
