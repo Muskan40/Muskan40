@@ -6,9 +6,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🚀 I'm a third year undergrad in Electronics And Communication Engineering(Galgotias College Of Engineering And Technology)
+- 🚀 I'm a  final year undergrad in Electronics And Communication Engineering(Galgotias College Of Engineering And Technology)
 - 📫 I'm *C++ Programmer*
 - 🌱 I’m currently learning *Data Structures and Algorithms.*
+- 🚀 I have a good knowledge of javascript and frontend library from basic to intermediate level.
 - 📫 How to reach me *muskan002gupta@gmail.com*
 
 ## 🚀 Languages and Tools:
